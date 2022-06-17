@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Matt-TOTW/GL-project#readme",
   "dependencies": {
-    "dep1-bookish-fortnight": "^1.1.1",
-    "dep2-cuddly-bassoon": "1.0.1"
+    "dep1-bookish-fortnight": "^1.0.0",
+    "dep2-cuddly-bassoon": "^1.0.0"
   }
 }
